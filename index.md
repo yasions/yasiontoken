@@ -1,1 +1,1 @@
-@import "yasion.pdf"
+@import"yasion.pdf"
